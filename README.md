@@ -2,7 +2,7 @@
   
   # Barış Can Arman
   
-  ### Embedded Systems & Edge AI Developer | Future NVIDIA Engineer
+  ### Embedded Systems & Edge AI Developer
   
   <i>"Pushing the boundaries of High-Performance Computing and Hardware-Aware AI."</i>
 
@@ -12,7 +12,7 @@
 
 I am a dedicated developer focused on the intersection of **High-Performance Computing (HPC)** and **Edge AI**. My engineering philosophy is built on the premise that true performance is unlocked only when you fully understand the underlying hardware. 
 
-Driven by the goal to be among the top 0.1% in the industry, my technical journey is deeply rooted in mastering **low-level C/C++** and **Linux Kernel** architecture. I am actively exploring **Parallel Computing** with **CUDA**, optimizing neural networks for constrained environments, and bridging the gap between sophisticated AI models and bare-metal execution. My ultimate mission is to engineer efficient, scalable, and intelligent embedded solutions that redefine accelerated computing.
+Driven by the goal to be among the top in the industry, my technical journey is deeply rooted in mastering **low-level C/C++** and **Linux Kernel** architecture. I am actively exploring **Parallel Computing** with **CUDA**, optimizing neural networks for constrained environments, and bridging the gap between sophisticated AI models and bare-metal execution. My ultimate mission is to engineer efficient, scalable, and intelligent embedded solutions that redefine accelerated computing.
 
 ---
 
