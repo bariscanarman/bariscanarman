@@ -24,7 +24,7 @@ Specialized in high-performance computing, C programming, and Linux system archi
 
 ### 💻 Core Tech Stack
 
-### 📟 Embedded & Hardware
+**📟 Embedded & Hardware**
 <p align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -33,14 +33,14 @@ Specialized in high-performance computing, C programming, and Linux system archi
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 </p>
 
-### 🐧 OS & Architecture
+**🐧 OS & Architecture**
 <p align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-### 🧠 Edge AI & Frameworks
+**🧠 Edge AI & Frameworks**
 <p align="left">
 <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
 <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
@@ -49,7 +49,7 @@ Specialized in high-performance computing, C programming, and Linux system archi
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-### 🛠️ Tools & Middleware
+**🛠️ Tools & Middleware**
 <p align="left">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
