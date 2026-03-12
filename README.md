@@ -1,17 +1,30 @@
-# Barış Can Arman
+<div align="center">
+  
+  # Barış Can Arman
+  
+  ### Embedded Systems & Edge AI Developer | Future NVIDIA Engineer
+  
+  <i>"Pushing the boundaries of High-Performance Computing and Hardware-Aware AI."</i>
 
-### Embedded Systems & Edge AI Developer | Future NVIDIA Engineer
+</div>
 
-Specialized in high-performance computing, C programming, and Linux system architecture. I focus on bridging the gap between hardware and AI by optimizing real-time models for Edge devices. Currently dedicated to mastering CUDA and kernel-level development to build the next generation of accelerated computing solutions.
+---
+
+I am a dedicated developer focused on the intersection of **High-Performance Computing (HPC)** and **Edge AI**. My engineering philosophy is built on the premise that true performance is unlocked only when you fully understand the underlying hardware. 
+
+Driven by the goal to be among the top 0.1% in the industry, my technical journey is deeply rooted in mastering **low-level C/C++** and **Linux Kernel** architecture. I am actively exploring **Parallel Computing** with **CUDA**, optimizing neural networks for constrained environments, and bridging the gap between sophisticated AI models and bare-metal execution. My ultimate mission is to engineer efficient, scalable, and intelligent embedded solutions that redefine accelerated computing.
 
 ---
 
 ###  Current Focus
 
-- Developing **Real-time Object Tracking (YOLO)** for high-performance edge inference.
-- Specializing in **low-level C, Linux Kernel Architecture,** and Parallel Computing.
-- Learning **CUDA programming** and hardware-aware neural network optimization.
-- Architecting and maintaining a highly customized **Arch Linux** development environment.
+🔭 Edge AI Optimization: Implementing Real-time Object Tracking (YOLO) with a focus on reducing latency and memory footprint on Edge devices.
+
+💾 Low-Level Mastery: Deep diving into Linux System Programming and memory management to write rock-solid, efficient C code.
+
+⚡ Accelerated Computing: Mastering CUDA C/C++ to leverage GPU power for complex mathematical computations and AI inference.
+
+🐧 System Environment: Architecting a specialized development workflow on Arch Linux, optimized for low-level firmware and kernel development.
 
 ### 🌐 Connect With Me
 
