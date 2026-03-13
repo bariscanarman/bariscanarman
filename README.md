@@ -58,10 +58,10 @@ Driven by the goal to be among the top in the industry, my technical journey is 
 <p align="left">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="NVIDIA"/>
 <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="CUDA"/>
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/ONNX-%23005AD4.svg?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
 <img src="https://img.shields.io/badge/TensorRT-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="TensorRT"/>
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 **🛠️ Tools & Middleware**
